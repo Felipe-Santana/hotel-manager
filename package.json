@@ -28,11 +28,11 @@
     "typescript": "^5.3.3"
   },
   "dependencies": {
-    "@dotenvx/dotenvx": "^0.24.0",
+    "@dotenvx/dotenvx": "^1.7.0",
     "busboy": "^1.6.0",
     "config": "^3.3.11",
     "dotenv": "^16.3.1",
-    "express": "^4.17.1",
+    "express": "^4.22.0",
     "express-session": "^1.18.0",
     "helmet": "^7.1.0",
     "jsonwebtoken": "^9.0.2",
